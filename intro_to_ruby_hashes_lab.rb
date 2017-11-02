@@ -40,5 +40,5 @@ def monopoly_with_fourth_tier
 				pieces: 4,
 				names: {},
 				rent_in_dollars: {}
-			}
+			}}
 end
